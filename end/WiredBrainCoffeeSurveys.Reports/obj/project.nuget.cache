@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/P0e6KJ/+1DXB+ic9sivOGif8mgi7Q/kZUWn0ltbEtk7iNGqZGpyFUPFUC9OqFcu2oW7nUkU8/YzaJM+uCndw==",
+  "success": true,
+  "projectFilePath": "/Users/matthewbriody/Documents/05/demos/end/WiredBrainCoffeeSurveys.Reports/WiredBrainCoffeeSurveys.Reports.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthewbriody/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
